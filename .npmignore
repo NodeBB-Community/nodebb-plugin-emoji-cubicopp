@@ -40,7 +40,3 @@ node_modules
 .jscsrc
 .eslintrc
 .gjslintrc
-
-### Custom definitions
-
-/public/static/images

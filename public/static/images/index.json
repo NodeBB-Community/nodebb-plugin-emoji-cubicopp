@@ -1,0 +1,23 @@
+{
+  "files": "**/*.svg",
+  "images": {
+    "angry": {"category": "people"},
+    "big_mouth": {"category": "people"},
+    "cheeky": {"category": "people"},
+    "confused": {"category": "people"},
+    "crying": {"category": "people"},
+    "expressionless": {"category": "people"},
+    "happy": {"category": "people"},
+    "joking": {"category": "people"},
+    "kiss": {"category": "people"},
+    "kiss_big": {"category": "people"},
+    "laughing": {"category": "people"},
+    "lol": {"category": "people"},
+    "sad": {"category": "people"},
+    "sunglasses": {"category": "people"},
+    "surprised": {"category": "people"},
+    "tongue_out": {"category": "people"},
+    "upset": {"category": "people"},
+    "warning": {"category": "symbols"}
+  }
+}
