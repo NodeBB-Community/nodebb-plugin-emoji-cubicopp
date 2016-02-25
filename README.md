@@ -1,9 +1,9 @@
-# [NodeBB](https://nodebb.org/) Plugin: **Emoji Static** *\<nodebb-plugin-emoji-static>*
+# [NodeBB](https://nodebb.org/) Plugin: **Emoji Cubicopp** *\<nodebb-plugin-emoji-cubicopp>*
 
 [![License](https://img.shields.io/npm/l/nodebb-plugin-emoji-cubicopp.svg)](LICENSE)
 [![Version](https://img.shields.io/npm/v/nodebb-plugin-emoji-cubicopp.svg)](https://www.npmjs.com/package/nodebb-plugin-emoji-cubicopp)
 [![Downloads](https://img.shields.io/npm/dm/nodebb-plugin-emoji-cubicopp.svg)](https://www.npmjs.com/package/nodebb-plugin-emoji-cubicopp)
-[![Dependency Status](https://david-dm.org/NodeBB-Community/nodebb-plugin-emoji-static.svg)](https://david-dm.org/NodeBB-Community/nodebb-plugin-emoji-cubicopp)
+[![Dependency Status](https://david-dm.org/NodeBB-Community/nodebb-plugin-emoji-cubicopp.svg)](https://david-dm.org/NodeBB-Community/nodebb-plugin-emoji-cubicopp)
 
 A static cubicopp images emoji-set for NodeBB.
 
