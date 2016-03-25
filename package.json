@@ -1,27 +1,35 @@
 {
-  "name": "nodebb-plugin-emoji-cubicopp",
-  "version": "1.0.5+@{build}",
+  "name": "nodebb-plugin-emoji-exodo",
+  "version": "1.0.5",
   "description": "The cubicopp emoji-set for NodeBB (requires nodebb-plugin-emoji-extended)",
   "main": "lib/controller.js",
-  "author": "Ole Reglitzki <frissdiegurke@protonmail.com> (https://github.com/frissdiegurke)",
+  "author": {
+    "name": "Ole Reglitzki",
+    "email": "frissdiegurke@protonmail.com",
+    "url": "https://github.com/frissdiegurke"
+  },
   "contributors": [
-    "Ole Reglitzki <frissdiegurke@protonmail.com> (https://github.com/frissdiegurke)"
+    {
+      "name": "Ole Reglitzki",
+      "email": "frissdiegurke@protonmail.com",
+      "url": "https://github.com/frissdiegurke"
+    }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB-Community/@{name}.git"
+    "url": "git+https://github.com/NodeBB-Community/nodebb-plugin-emoji-cubicopp.git"
   },
   "nbbpm": {
-    "id": "@{id}",
-    "name": "Emoji Cubicopp",
-    "type": "@{type.name}",
+    "id": "emoji-exodo",
+    "name": "Emoji exodo",
+    "type": "plugin",
     "compatibility": "^1.0.0"
   },
   "keywords": [
     "nodebb",
-    "@{type.name}",
-    "emoji-cubicopp"
+    "plugin",
+    "emoji-exodo"
   ],
   "dependencies": {
     "glob": "^7.0.0",
