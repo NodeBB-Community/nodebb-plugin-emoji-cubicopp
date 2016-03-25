@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-emoji-exodo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The cubicopp emoji-set for NodeBB (requires nodebb-plugin-emoji-extended)",
   "main": "lib/controller.js",
   "author": {
@@ -29,7 +29,8 @@
   "keywords": [
     "nodebb",
     "plugin",
-    "emoji-exodo"
+    "emoji-exodo",
+"exodo"
   ],
   "dependencies": {
     "glob": "^7.0.0",
