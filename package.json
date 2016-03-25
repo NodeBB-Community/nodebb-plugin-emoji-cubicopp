@@ -42,5 +42,11 @@
     "nodebb-plugin-emoji-extended": "^1.0.0",
     "nconf": "*",
     "winston": "*"
+  },
+  "scripts": {
+    "2npm": "publish"
+  },
+  "devDependencies": {
+    "publish": "0.5.0"
   }
 }
