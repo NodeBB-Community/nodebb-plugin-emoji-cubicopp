@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-emoji-exodo",
-  "version": "1.0.8",
-  "description": "The cubicopp emoji-set for NodeBB (requires nodebb-plugin-emoji-extended)",
+  "version": "1.0.9",
+  "description": "The Exodo emoji-set for NodeBB (requires nodebb-plugin-emoji-extended)",
   "main": "lib/controller.js",
   "author": {
     "name": "Ole Reglitzki",
@@ -10,15 +10,15 @@
   },
   "contributors": [
     {
-      "name": "Ole Reglitzki",
-      "email": "frissdiegurke@protonmail.com",
-      "url": "https://github.com/frissdiegurke"
+      "name": "Exomarty",
+      "email": "contacto@exo.do",
+      "url": "https://github.com/exomarty"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NodeBB-Community/nodebb-plugin-emoji-cubicopp.git"
+    "url": "https://github.com/exo-do/nodebb-plugin-emoji-exodo.git"
   },
   "nbbpm": {
     "id": "emoji-exodo",
@@ -29,8 +29,7 @@
   "keywords": [
     "nodebb",
     "plugin",
-    "emoji-exodo",
-"exodo"
+    "emoji-exodo"
   ],
   "dependencies": {
     "glob": "^7.0.0",
@@ -43,10 +42,35 @@
     "nconf": "*",
     "winston": "*"
   },
-  "scripts": {
-    "2npm": "publish"
+  "gitHead": "771aa7212a27aaacac28d20f9ff299189d054a52",
+  "bugs": {
+    "url": "https://github.com/exo-do/nodebb-plugin-emoji-exodo/issues"
   },
-  "devDependencies": {
-    "publish": "0.5.0"
-  }
+  "homepage": "https://github.com/exo-do/nodebb-plugin-emoji-exodo#readme",
+  "_id": "nodebb-plugin-emoji-exodo@1.0.5",
+  "scripts": {},
+  "_shasum": "e71b07c516b520279bdad82efd0351c28193aced",
+  "_from": "nodebb-plugin-emoji-exodo@1.0.5",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "exodo",
+    "email": "contacto@exo.do"
+  },
+  "dist": {
+    "shasum": "e71b07c516b520279bdad82efd0351c28193aced",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-emoji-exodo/-/nodebb-plugin-emoji-exodo-1.0.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "exodo",
+      "email": "contacto@exo.do"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nodebb-plugin-emoji-exodo-1.0.5.tgz_1458943116269_0.9670418784953654"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-emoji-exodo/-/nodebb-plugin-emoji-exodo-1.0.5.tgz"
 }
