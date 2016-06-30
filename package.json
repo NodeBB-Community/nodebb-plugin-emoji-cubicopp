@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-emoji-exodo",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "nbbpm": {
     "id": "nodebb-plugin-emoji-exodo",
     "name": "Emoji exodo",

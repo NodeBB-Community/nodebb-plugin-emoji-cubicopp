@@ -1,6 +1,8 @@
 {
     "files": "**/*.gif",
     "images": {
+		"thisis": {"category": "aaexodo"},
+		"roto2pun": {"category": "aaexodo"},
         "qmeparto": {"category": "aaexodo"},
         "facepalm": {"category": "aaexodo"},
         "roto2": {"category": "aaexodo"},
