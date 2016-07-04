@@ -1,8 +1,9 @@
 {
-  "id": "nodebb-plugin-emoji-exodo",
-  "name": "Emoji Exodo",
-  "description": "The cubicopp emoji-set for NodeBB (requires nodebb-plugin-emoji-extended)",
-  "library": "lib/controller.js",
+  "id": "@{name}",
+  "version": "@{>version}",
+  "name": "@{nbbpm.name}",
+  "description": "@{description}",
+  "library": "@{main}",
   "staticDirs": {"static": "public/static/"},
   "languages": "public/locales",
   "defaultLang": "en_US"
