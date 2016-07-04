@@ -1,17 +1,17 @@
 {
   "name": "nodebb-plugin-emoji-exodo",
   "version": "1.0.20",
+  "nbbpm": {
+    "id": "nodebb-plugin-emoji-exodo",
+    "name": "Emoji exodo",
+    "type": "plugin",
+    "compatibility": "^1.0.0"
+  },
   "description": "The Exodo emoji-set for NodeBB (requires nodebb-plugin-emoji-extended)",
   "main": "lib/controller.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/exo-do/@{name}.git"
-  },
-  "nbbpm": {
-    "id": "@{id}",
-    "name": "Emoji exodo",
-    "type": "@{type.name}",
-    "compatibility": "^1.0.0"
+    "url": "https://github.com/exo-do/nodebb-plugin-emoji-exodo.git"
   },
   "keywords": [
       "nodebb",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/exo-do/@{type.name}/issues"
+    "url": "https://github.com/exo-do/nodebb-plugin-emoji-exodo/issues"
   },
   "dependencies": {
     "glob": "^7.0.0",
