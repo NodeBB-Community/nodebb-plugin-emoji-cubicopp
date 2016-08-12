@@ -1,5 +1,16 @@
+.emoji-container {
+  .emoji[data-set-id="exodo"] {
+    height: 20px !important;
+    width: auto;
+    margin: -1px 0;
+  }
+}
+
 .emoji[data-set-id="exodo"] {
-  height: 20px;
+  height: auto;
   width: auto;
   margin: -1px 0;
 }
+
+
+
