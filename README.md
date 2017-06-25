@@ -7,7 +7,7 @@
 
 A static cubicopp images emoji-set for NodeBB.
 
-![preview](https://raw.githubusercontent.com/NodeBB-Community/nodebb-plugin-emoji-cubicopp/master/public/static/preview.png)
+![preview](https://raw.githubusercontent.com/NodeBB-Community/nodebb-plugin-emoji-cubicopp/master/preview.png)
 
 ## Installation
 
@@ -18,7 +18,3 @@ Install and activate `nodebb-plugin-emoji-extended` and `nodebb-plugin-emoji-cub
 The manual installation via [NPM](https://www.npmjs.com/) may result in version-conflicts with NodeBB.
 
     npm install nodebb-plugin-emoji-extended nodebb-plugin-emoji-cubicopp
-
-## Development
-
-This module gets developed using the [NodeBB Grunt](https://github.com/NodeBB-Community/nodebb-grunt) Framework.
