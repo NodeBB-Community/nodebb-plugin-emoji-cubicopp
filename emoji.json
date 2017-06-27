@@ -1,7 +1,8 @@
 {
+  "name": "Cubicopp",
   "id": "cubicopp",
   "mode": "images",
-  "images":{
+  "images": {
     "directory": "emoji"
   },
   "dictionary": {

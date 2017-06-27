@@ -7,7 +7,7 @@
 
 A static cubicopp images emoji-set for NodeBB.
 
-![preview](https://raw.githubusercontent.com/NodeBB-Community/nodebb-plugin-emoji-cubicopp/master/preview.png)
+![preview](preview.png)
 
 ## Installation
 
