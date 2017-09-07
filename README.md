@@ -11,10 +11,10 @@ A static cubicopp images emoji-set for NodeBB.
 
 ## Installation
 
-Install and activate `nodebb-plugin-emoji-extended` and `nodebb-plugin-emoji-cubicopp` via the admin control panel of your NodeBB instance.
+Install and activate `nodebb-plugin-emoji` and `nodebb-plugin-emoji-cubicopp` via the admin control panel of your NodeBB instance.
 
 ### Manual installation
 
 The manual installation via [NPM](https://www.npmjs.com/) may result in version-conflicts with NodeBB.
 
-    npm install nodebb-plugin-emoji-extended nodebb-plugin-emoji-cubicopp
+    npm install nodebb-plugin-emoji nodebb-plugin-emoji-cubicopp
